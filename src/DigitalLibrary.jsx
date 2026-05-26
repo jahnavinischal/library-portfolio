@@ -25,7 +25,7 @@ const PROJECTS = [
 ];
 
 const RESEARCH = [
-  { title: "Earthquake Magnitude Prediction using machine learning", year: "2024", abstract: "", file: "https://link.springer.com/chapter/10.1007/978-981-96-4319-64" },
+  { title: "Earthquake Magnitude Prediction using machine learning", year: "2024", abstract: "", file: "https://link.springer.com/chapter/10.1007/978-981-96-4319-6_4" },
   { title: "Generalized framework using Federated Learning for brain tumor detection from medical images", year: "2025", abstract: "", file: "https://ieeexplore.ieee.org/document/10932596" },
   { title: "Polycystic Ovary Syndrome (PCOS) Detection Using Deep Learning and Explainable AI", year: "2025", abstract: "", file: "https://ieeexplore.ieee.org/abstract/document/11430323" }
 ];
